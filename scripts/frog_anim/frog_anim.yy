@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"frog_anim",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"frog_anim",
+  "parent":{
+    "name":"Frog",
+    "path":"folders/Scripts/Enemy/Frog.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
