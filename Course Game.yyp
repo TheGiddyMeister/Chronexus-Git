@@ -75,6 +75,7 @@
     {"id":{"name":"player_jump_state","path":"scripts/player_jump_state/player_jump_state.yy",},},
     {"id":{"name":"player_walk_state","path":"scripts/player_walk_state/player_walk_state.yy",},},
     {"id":{"name":"s_bkgd_moon","path":"sprites/s_bkgd_moon/s_bkgd_moon.yy",},},
+    {"id":{"name":"s_frog_attack","path":"sprites/s_frog_attack/s_frog_attack.yy",},},
     {"id":{"name":"s_frog_idle","path":"sprites/s_frog_idle/s_frog_idle.yy",},},
     {"id":{"name":"s_frog_jump_land","path":"sprites/s_frog_jump_land/s_frog_jump_land.yy",},},
     {"id":{"name":"s_frog_jump_start","path":"sprites/s_frog_jump_start/s_frog_jump_start.yy",},},

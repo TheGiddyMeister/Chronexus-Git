@@ -26,7 +26,8 @@ enum frog_states {
     IDLE,
 	JUMP_START,
 	JUMP,
-	JUMP_LAND
+	JUMP_LAND,
+	ATTACK
 }
 
 state = frog_states.IDLE;
